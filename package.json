@@ -1,0 +1,9 @@
+{
+  "name": "dev_fullstack",
+  "version": "1.0.0",
+  "description": "Portfolio and CV project",
+  "scripts": {},
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
